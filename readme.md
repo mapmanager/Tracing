@@ -56,5 +56,5 @@ tifPath = '/Users/cudmore/Sites/PyMapManager-Data/one-timepoint/rr30a_s0_ch2.tif
 
 The output should look like this. The red points are user defined control points. The yellow line/points is the full tracing coming back from Fiji - Simple Neurite Tracer.
 
-<IMG width=200 SRC="img/fiji-tracing-one-segment.png">
+<IMG width=400 SRC="img/fiji-tracing-one-segment.png">
 
