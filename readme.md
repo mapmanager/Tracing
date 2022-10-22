@@ -27,17 +27,20 @@ Right now, tracing has no additional Python package requirements.
 Here we will be testing tracing by loading stack/annotations with PyMapManager.
 
 ```
-python -m venv tracing_env
-source tracing_env/bin/activate
+    python -m venv tracing_env
+    source tracing_env/bin/activate
 
-pip install -e .
+    pip install -e .
 
-# this needs to be from branch 'cudmore-fix-interface'
-pip install -e ../PyMapManager/.
+    # this needs to be from branch 'cudmore-fix-interface'
+    pip install -e ../PyMapManager/.
 ```
 
-You need to put the lifeline version of Fiji.app (20170530) in the following folder
+You need to put the lifeline version of Fiji.app (20170530) in the following folder:
+
+```
     <users>/Documents/fiji_old/Fiji.app
+```
 
 ### Getting started
 
