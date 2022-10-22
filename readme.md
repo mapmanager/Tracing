@@ -46,7 +46,7 @@ Our ultimate goal is to implement our own A* tracing between successive points.
 
 ### Getting started
 
-In [fijiScript/test_fiji_tracing_pymapmanager.py](fijiScript/test_fiji_tracing_pymapmanager.py), run `test_tracing_pymapmanager()`.
+In [tests/test_fiji_tracing_pymapmanager.py](tests/test_fiji_tracing_pymapmanager.py), run `test_tracing_pymapmanager()`.
 
 Be sure to specify the corect path on your system.
 
